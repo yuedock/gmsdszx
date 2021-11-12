@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🚀
-        subtitle: To Be The Best Of Youself.
+        subtitle: To be the best of youself
         avatar:
             enabled: true
             local: true
