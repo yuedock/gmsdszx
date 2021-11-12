@@ -5,7 +5,11 @@ date: 2021-11-11
 slug: test
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
-    - 项目测试
+    - 全站公告
+    
+tags:
+    - 测试
+    
 ---
 
 ## 正文测试
