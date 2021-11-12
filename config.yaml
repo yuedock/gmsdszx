@@ -38,8 +38,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 📰
-        subtitle: Be the best of youself.
+        emoji: 💾
+        subtitle: Be the best of youself
         avatar:
             enabled: true
             local: true
