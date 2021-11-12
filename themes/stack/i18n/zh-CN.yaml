@@ -29,7 +29,7 @@ notFound:
 widget:
     archives:
         title:
-            other: 归档
+            other: 归档录
 
         more:
             other: 更多
@@ -40,10 +40,10 @@ widget:
 
 search:
     title:
-        other: 搜索
+        other: 站内快搜
 
     placeholder:
-        other: 输入关键词...
+        other: 输入关键词后回车
 
     resultTitle:
         other: "#PAGES_COUNT 个结果 （用时 #TIME_SECONDS 秒）"
