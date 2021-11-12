@@ -2,10 +2,10 @@
 title: 一篇测试文章
 description: 其实我只是一个副标题
 date: 2021-11-11
-slug: test
+slug: 网站测试的第一篇文章
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
-    - 全站公告
+    - 公告
     
 tags:
     - 测试
@@ -25,10 +25,4 @@ tags:
 > 不告而别的你 就算为了我着想  
 > 这么沉痛的呵护 我怎么能翱翔  
 > 
-> *[最暖的憂傷 - 田馥甄](https://www.youtube.com/watch?v=3aypp_YlBzI)*
-
-## 图片
-
-![Photo by Florian Klauer on Unsplash](florian-klauer-nptLmg6jqDo-unsplash.jpg)  ![Photo by Luca Bravo on Unsplash](luca-bravo-alS7ewQ41M8-unsplash.jpg) 
-
-![Photo by Helena Hertz on Unsplash](helena-hertz-wWZzXlDpMog-unsplash.jpg)  ![Photo by Hudai Gayiran on Unsplash](hudai-gayiran-3Od_VKcDEAA-unsplash.jpg)
+> *最暖的憂傷 - 田馥甄*
