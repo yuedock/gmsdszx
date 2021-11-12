@@ -18,7 +18,7 @@ article:
         other: 最后更新于
 
     readingTime:
-        other: "阅读时长: {{ .Count }} 分钟"
+        other: "阅读时长: 约 {{ .Count }} 分钟"
 
 notFound:
     title:
@@ -43,7 +43,7 @@ search:
         other: 搜索
 
     placeholder:
-        other: 输入关键词后回车
+        other: 请输入关键词后回车
 
     resultTitle:
         other: "#PAGES_COUNT 个结果 （用时 #TIME_SECONDS 秒）"
